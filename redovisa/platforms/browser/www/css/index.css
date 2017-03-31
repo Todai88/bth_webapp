@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #666;
+}
+
+main {
+    width:100%;
+}
+
+section.container {
+    width: 90%;
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.2);
+    background-color: #eee;
+}
+main navbar {
+    height: 4em;
+    background-color: #7ec0ee;
+    font-family: Helvetica, Verdana, sans-serif;
+    display: block;
+    color: white;
+}
+
+main navbar::after {
+    content: " ";
+    clear:both;
+    display: block;
+}
+
+main navbar .brand {
+    margin: 0;
+    float:left;
+    color: black;
+    font-size: 2.8em;
+    font-weight: bold;
+}
+
+main navbar ul.nav {
+    list-style-type: none;
+    padding-left:0;
+    padding-top: 0.7em;
+    float:right;
+    margin:6px 0 0 0;
+}
+
+main navbar ul.nav li {
+    background-color: white;
+    box-shadow: 0px 2px 2px 1px rgba(0, 0, 0, 0.1);
+    display: inline;
+    font-size: 1.5em;
+    margin-left: 10px;
+    padding: 4px 12px;
+}
+
+main navbar ul.nav li a {
+    color: black;
+    text-decoration:none;
+}
+
+main navbar ul.nav li:hover {
+    background-color: #eee;
+
+}
+
+.container {
+    padding: 0 1em 1em 1em;
+    margin: 0 auto;
+    max-width: 960px;
+    width:96%;
+}
+
+h1 {
+    font-size: 2em;
+    font-family: Helvetica, Verdana, sans-serif;
+    font-weight:lighter;
+    margin-top: 4px;
+    border-bottom: 2px solid #7ec0ee;
+}
+
+p {
+    font-size: 1.2em;
+    font-family: Garamond, Georgia, Times, serif;
+}
