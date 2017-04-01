@@ -13,7 +13,7 @@ section.container {
     box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.2);
     background-color: #eee;
 }
-main navbar {
+/*main navbar {
     height: 4em;
     background-color: #7ec0ee;
     font-family: Helvetica, Verdana, sans-serif;
@@ -50,9 +50,9 @@ main navbar ul.nav li {
     font-size: 1.5em;
     margin-left: 10px;
     padding: 4px 12px;
-}
+}*/
 
-main navbar ul.nav li a {
+/*main navbar ul.nav li a {
     color: black;
     text-decoration:none;
 }
@@ -60,7 +60,7 @@ main navbar ul.nav li a {
 main navbar ul.nav li:hover {
     background-color: #eee;
 
-}
+}*/
 
 .container {
     padding: 0 1em 1em 1em;
