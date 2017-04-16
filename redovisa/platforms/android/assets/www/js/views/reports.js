@@ -7,10 +7,10 @@ module.exports = {
             m("div", [
                 m("h1.text-center", "Reports"),
                 m("p", "Bellow you will see all my reports"),
-                m("ul#report-list", [
+                m("ul.report-list", [
                     m("li", [
                         m("h2.lead", "kmom01"),
-                        m("ul#report-list", [
+                        m("ul.report-list", [
                             m("li", [
                                 m("h3", "Är du sedan tidigare bekant med utveckling av mobila appar?")
                             ]),

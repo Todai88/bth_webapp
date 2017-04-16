@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack js/index.js bin/app.js -d",
-    "test": "webpack js/index.js bin/app.js -d --watch"
+    "test": "webpack js/index.js bin/app.js -d --watch",
+    "build": "cordova build browser --release"
   },
   "keywords": [],
   "author": "",

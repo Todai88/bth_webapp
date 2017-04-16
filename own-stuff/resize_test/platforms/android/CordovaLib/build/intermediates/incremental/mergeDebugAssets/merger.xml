@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/todai/Studies/dbwebb-kurser/webapp/me/own-stuff/resize_test/platforms/android/CordovaLib/assets"/><source path="/home/todai/Studies/dbwebb-kurser/webapp/me/own-stuff/resize_test/platforms/android/CordovaLib/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/todai/Studies/dbwebb-kurser/webapp/me/own-stuff/resize_test/platforms/android/CordovaLib/src/debug/assets"/></dataSet></merger>

@@ -21,9 +21,9 @@ var app = {
                 }
             },
             "/reports": {
-              render: function () {
-                return m(Layout, m(Reports));
-              }
+                render: function () {
+                    return m(Layout, m(Reports));
+                }
             }
         });
     }

@@ -17,4 +17,4 @@ module.exports = {
             m("section.container", vnode.children)
         ]);
     }
-}
+};

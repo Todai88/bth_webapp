@@ -47,7 +47,7 @@ main navbar ul.nav {
 
 main navbar ul.nav li {
     background-color: white;
-    box-shadow: 0px 2px 2px 1px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 2px 1px rgba(0, 0, 0, 0.1);
     display: inline;
     font-size: 1em;
     margin-left: 10px;
@@ -103,6 +103,6 @@ img {
     padding-top: 10em;
 }
 
-#report-list {
+.report-list {
     list-style-type: none;
 }

@@ -1,0 +1,14 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "start": "webpack js/index.js bin/app.js -d",
+      "test": "webpack js/index.js bin/app.js -d --watch",
+      "build": "cordova build browser --release"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
